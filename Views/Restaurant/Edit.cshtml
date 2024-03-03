@@ -1,0 +1,127 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model ValidateModel
+
+<section class="text-center">
+	<!-- Background image -->
+	<div class="p-5 bg-image" style="
+        background-image: url('~/images/slide-01.jpg');
+        height: 300px;
+		"></div>
+	<!-- Background image -->
+
+	<div class="card mx-4 mx-md-5 shadow-5-strong" style="
+        margin-top: -100px;
+        background: hsla(0, 0%, 100%, 0.8);
+        backdrop-filter: blur(30px);
+		">
+		<div class="card-body py-5 px-md-5">
+
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-8">
+					<h1 class="fw-bold mb-5" style="color:#fb5849;">EDIT @Model.name RESTAURANT INFO</h1>
+					<form asp-action="Edit" method="post">
+						<input type="hidden" asp-for="OldPassword" />
+						<input type="hidden" asp-for="FileType" id="fileType" />
+						<input type="hidden" asp-for="NewPassword" />
+						<input type="hidden" asp-for="ConfirmPassword" />
+						<input type="hidden" name="lat" id="lat" value="0" />
+						<input type="hidden" name="lng" id="lng" value="0" />
+
+						<!-- Restaurant name -->
+						<div class="form-outline mb-4">
+							<input type="text" id="form3Example1" name="name" value="@Model.name" class="form-control" />
+							<label class="form-label" for="form3Example1">Restaurant Name</label>
+							<span asp-validation-for="name" class="text-danger"></span>
+						</div>
+
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+						<div class="row">
+							<div class="col-md-6 mb-4">
+								<!-- Email input -->
+								<div class="form-outline">
+									<input type="email" id="form3Example3" name="email" value="@Model.email" class="form-control" />
+									<label class="form-label" for="form3Example3">Email Address</label>
+									<span asp-validation-for="email" class="text-danger"></span>
+								</div>
+								@if (ViewBag.found != null)
+								{
+									<p>@ViewBag.found</p>
+								}
+							</div>
+							<div class="col-md-6 mb-4">
+								<!-- Phone Number -->
+								<div class="form-outline">
+									<input type="text" id="form3Example2" name="phoneNumber" value="@Model.phonenumber" class="form-control" />
+									<label class="form-label" for="form3Example2">Phone Number</label>
+									<span asp-validation-for="phonenumber" class="text-danger"></span>
+								</div>
+							</div>
+						</div>
+
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+
+						<!-- Time input -->
+						<div class="row">
+							<div class="col-md-6 mb-4">
+								<div class="form-outline">
+									<input type="time" class="form-control datetimepicker-input" name="StartTime" id="open" value="@ViewData["stime"]"
+										   placeholder=@ViewData["stime"] data-target="#date2" data-toggle="datetimepicker" style="color:black" required />
+									<label class="form-label" for="open">Open Time</label>
+								</div>
+							</div>
+							<div class="col-md-6 mb-4">
+								<div class="form-outline">
+									<input type="time" class="form-control datetimepicker-input" name="EndTime" id="close"
+										   value="@ViewData["etime"]" data-target="#date2" data-toggle="datetimepicker" style="color:black" required />
+									<label class="form-label" for="close">Close Time</label>
+								</div>
+							</div>
+						</div>
+
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+
+
+						<!-- Photo input -->
+						@* <div class="form-outline mb-4">
+						<input type="file" class="form-control" id="file" name="ProfilePicture" placeholder="ProfilePicture" style="background-color:white;" required />
+						<label class="form-label" for="file">Upload Restaurant Logo</label>
+						<span asp-validation-for="FileType" class="text-danger"></span>
+						</div> 
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />*@
+						<!-- Checkbox -->
+						<!-- Checkbox -->
+						<div class="form-outline mb-4">
+							<label for="features">Select restaurant features:</label>
+							<br>
+							@foreach (var feature in new[] { "KidsArea", "OpenAir", "Seats", "Food", "Drinks", "Desserts", "Delivery", "Vegan", "Healthy", "Buffet" })
+							{
+								<div class="form-check form-check-inline">
+									<input class="form-check-input" type="checkbox" id="@feature" name="@feature" @(ViewData[feature] != null && (bool)ViewData[feature] ? "checked" : "") />
+									<label class="form-check-label" for="@feature">@feature</label>
+								</div>
+							}
+						</div>
+						<br />
+						<div class="main-white-button scroll-to-section text-center">
+							<button type="submit" class="btn btn-block mb-4" style="background-color:#fb5849; border-color:#fb5849; color:white;">
+								<h6>Save</h6>
+							</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,99 @@
+﻿@{
+    ViewData["Title"] = "User Form Page";
+}
+@model ValidateModel
+<section class="text-center">
+	<!-- Background image -->
+	<div class="p-5 bg-image" style="
+        background-image: url('~/images/slide-01.jpg');
+        height: 300px;
+		"></div>
+	<!-- Background image -->
+
+	<div class="card mx-4 mx-md-5 shadow-5-strong" style="
+        margin-top: -100px;
+        background: hsla(0, 0%, 100%, 0.8);
+        backdrop-filter: blur(30px);
+		">
+		<div class="card-body py-5 px-md-5">
+
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-8">
+					<h2 class="fw-bold mb-5" style="color:#fb5849;">SIGN UP NOW</h2>
+					<form method="post" data-wow-delay="0.1s" enctype="multipart/form-data" asp-action="Userform" id="myForm">
+						<input type="hidden" asp-for="OldPassword" />
+						<input type="hidden" asp-for="FileType" id="fileType"/>
+						<!-- User name -->
+						<div class="form-outline mb-4">
+							<input type="text" id="form3Example1" name="name" value="@Model.name" class="form-control" style="color:black" />
+							<label class="form-label" for="form3Example1">User Name</label>
+							<span asp-validation-for="name" class="text-danger"></span>
+						</div>
+
+						<!-- Email input -->
+						<div class="form-outline mb-4">
+							<input type="email" id="form3Example3" name="email" value="@Model.email" class ="form-control" style="color:black" />
+							<label class="form-label" for="form3Example3">Email Address</label>
+							<span asp-validation-for="email" class="text-danger"></span>
+						</div>
+						
+						<!-- Phone Number -->
+						<div class="form-outline mb-4">
+							<input type="text" id="form3Example2" name="phoneNumber" value="@Model.phonenumber" class ="form-control" style="color:black" />
+							<label class="form-label" for="form3Example2">Phone Number</label>
+							<span asp-validation-for="phonenumber" class="text-danger"></span>
+						</div>
+						
+						<!-- Photo input -->
+						<div class="form-outline mb-4">
+							<input type="file" accept="image/*" class="form-control" id="file" name="ProfilePicture" placeholder="ProfilePicture" style="background-color:white;" required />
+							<label class="form-label" for="file">Upload Profile Photo</label>
+							<span asp-validation-for="FileType" class="text-danger"></span>
+						</div>
+
+						<!-- Password input -->
+						<div class="form-outline mb-4">
+							<input type="password" id="form3Example4" name="NewPassword" class="form-control" style="color:black" />
+							<label class="form-label" for="form3Example4">Password</label>
+							<span asp-validation-for="NewPassword" class="text-danger"></span>
+
+							<input type="password" id="form3Example4" name="ConfirmPassword" class="form-control" style="color:black" />
+							<label class="form-label" for="form3Example4">Confirm Password</label>
+							<span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+						</div>
+
+						<br />
+						<!-- Submit button -->
+						<div class="main-white-button scroll-to-section text-center">
+							<button type="submit" class="btn btn-block mb-4" style="background-color:#fb5849; border-color:#fb5849; color:white;">
+								<h6>SIGN UP</h6>
+							</button>
+						</div>
+						<br>
+						<div class="text-center">
+							<a href="/Account/LoginHome" style="color:#fb5849">Don't Have an Account?!  SIGN UP Here</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Section: Design Block -->
+
+
+<script>
+
+	document.addEventListener("DOMContentLoaded", function () {
+		let FileType = document.getElementById('fileType');
+		let File = document.getElementById('file');
+
+		document.getElementById('myForm').addEventListener('submit', function (event) {
+			let realType = File.files[0].type;
+			FileType.value = realType;
+		});
+	});
+
+
+
+</script>

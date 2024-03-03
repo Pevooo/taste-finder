@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "ChatBot";
+}
+<style>
+    .gradient-custom {
+        /* fallback for old browsers */
+        background-image: url('/images/top-left-bg.jpg');
+        /* Chrome 10-25, Safari 5.1-6
+            background: -webkit-linear-gradient(to bottom right, rgba(252, 203, 144, 1), rgba(213, 126, 235, 1));
+            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+
+            background: linear-gradient(to bottom right, rgba(252, 203, 144, 1), rgba(213, 126, 235, 1))*/
+    }
+
+    .mask-custom {
+        background: rgba(24, 24, 16, .2);
+        border-radius: 2em;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgba(255, 255, 255, 0.05);
+        background-clip: padding-box;
+        box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+    }
+</style>
+
+
+<input type="text" id="inputText" class="form-control" value="@ViewBag.n1" name="n1" />
+<label>Solution</label>
+<input type="text" class="form-control" value="@ViewBag.res" name="res" width="200" readonly />
+<button id="submitButton" onclick="getResponse()" class="btn btn-primary" style="background-color:#fb5849; border-color:#fb5849;">Submit</button>
+<p id="result"></p>

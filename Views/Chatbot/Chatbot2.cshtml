@@ -1,0 +1,95 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "ChatBot";
+}
+    <style>
+        .user-message, .bot-message {
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .user-message {
+            background-color: #ddd;
+        }
+        .bot-message {
+            background-color: #f5f5f5;
+        }
+    </style>
+  
+<body>
+    <section class="gradient-custom">
+        <div class="container py-5">
+            <br><br><br><br>
+            <div class="row align-items-center text-center">
+                <div class="col-xl-12 col-lg-12 col-md-12 col-12">
+                    <div class="pt-20 rounded-top" style="background-image: url('assets/images/white-logo.jpg'); background-size: cover;">
+                        <p style="color:#fb5849">Welcome to the ChatBot</p>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-7 col-xl-7" style="max-width:100%">
+                <ul class="list-unstyled text-black" id="chatHistory">
+
+                </ul>
+
+                <div class="card-body">
+                    <input type="text" id="inputText" class="form-control" value="" name="n1" />
+                </div>
+                <div class="main-white-button scroll-to-section text-center">
+                    <button id="submitButton" onclick="getResponse()" class="btn btn-block mb-4" style="background-color:#fb5849; border-color:#fb5849; color:white;">
+                        <h6>Send</h6>
+                    </button>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+</body>
+
+<script>
+    let currentUrl = window.location.href;
+    let button = document.getElementById('submitButton');
+    let inputText = document.getElementById('inputText');
+    let chatHistory = document.getElementById('chatHistory');  // Get reference to chat history element
+
+    function getResponse() {
+    let userInput = document.getElementById('inputText').value;
+  inputText.value = '';  // Clear the input field after sending
+
+  fetch(`/Chatbot/GetResponseAJAX?text=${userInput}`)
+      .then(data => {
+          if (data.redirected) {
+              window.location.href = data.url;
+              return;
+          }
+          return data.json();
+      })
+      .then(data => {
+
+          // Create user message element
+          let userMessage = document.createElement('li');
+          userMessage.classList.add('user-message');  // Add class for styling
+
+          let userMessageContent = document.createElement('div');
+          userMessageContent.textContent = userInput;  // Set user message content
+
+          userMessage.appendChild(userMessageContent);  // Append content to message element
+          chatHistory.appendChild(userMessage);  // Append user message to chat history
+
+          // Create bot message element
+          let botMessage = document.createElement('li');
+          botMessage.classList.add('bot-message');  // Add class for styling
+
+          let botMessageContent = document.createElement('div');
+          botMessageContent.textContent = data.text;  // Set bot response content
+
+          botMessage.appendChild(botMessageContent);  // Append content to message element
+          chatHistory.appendChild(botMessage);  // Append bot message to chat history
+      });
+    }
+</script>

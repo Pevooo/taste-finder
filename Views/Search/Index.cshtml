@@ -1,0 +1,221 @@
+﻿@{
+    ViewData["Title"] = "Search Page";
+}
+@model List<TasteFinder.Models.Restaurant>
+<head>
+    <style>
+        body {
+            margin-top: 20px;
+            background: #eee;
+        }
+
+        .btn {
+            margin-bottom: 5px;
+        }
+
+        .grid {
+            position: relative;
+            width: 100%;
+            background: #fff;
+            color: #666666;
+            border-radius: 2px;
+            margin-bottom: 25px;
+            box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+        }
+
+            .grid .grid-body {
+                padding: 15px 20px 15px 20px;
+                font-size: 0.9em;
+                line-height: 1.9em;
+            }
+
+        .search table tr td.rate {
+            color: #f39c12;
+            line-height: 50px;
+        }
+
+        .search table tr:hover {
+            cursor: pointer;
+        }
+
+        .search table tr td.image {
+            width: 50px;
+        }
+
+        .search table tr td img {
+            width: 50px;
+            height: 50px;
+        }
+
+        .search table tr td.rate {
+            color: #f39c12;
+            line-height: 50px;
+        }
+
+        .search table tr td.price {
+            font-size: 1.5em;
+            line-height: 50px;
+        }
+
+        .search #price1,
+        .search #price2 {
+            display: inline;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<section>
+    <!-- Background image -->
+    <div class="p-5 bg-image" style="
+        background-image: url('assets/images/slide-01.jpg');
+        height: 300px;
+        "></div>
+    <!-- Background image -->
+
+    <div class="card mx-4 mx-md-5 shadow-5-strong" style="
+        margin-top: -100px;
+        background: hsla(0, 0%, 100%, 0.8);
+        backdrop-filter: blur(30px);min-height: 620px;
+        ">
+
+
+        <div class="row">
+            <!-- BEGIN SEARCH RESULT -->
+            <div class="col-md-12">
+                <div class="grid search">
+                    <div class="grid-body">
+                        <form action="/Search/Results" method="get" role="form" class="p-3 p-md-4" id="searchForm">
+                            <div class="row">
+                                <!-- BEGIN FILTERS -->
+                                <div class="col-md-3">
+                                    <h2 class="grid-title" style="color:#fb5849"><i class="fa fa-filter"></i> Filters</h2>
+                                    <hr>
+
+                                    <!-- BEGIN FILTER BY CATEGORY -->
+                                    <h4 style="color:#fb5849">By category:</h4>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="Food"> Food</label>
+                                    </div>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="Drinks"> Drinks</label>
+                                    </div>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="Desserts"> Desserts</label>
+                                    </div>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="Buffet"> Buffet</label>
+                                    </div>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="Vegan"> Vegan</label>
+                                    </div>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="Healthy"> Healthy</label>
+                                    </div>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="OpenAir"> Open Air</label>
+                                    </div>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="KidsArea"> Kids Area</label>
+                                    </div>
+
+                                    <!-- END FILTER BY CATEGORY -->
+
+                                    <div class="padding"></div>
+
+                                    <!-- BEGIN FILTER BY DATE -->
+                                    
+                                    <!-- END FILTER BY DATE -->
+
+                                    <div class="padding"></div>
+
+                                    <!-- BEGIN FILTER BY Others -->
+                                    <h4 style="color:#fb5849">Others:</h4>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="Delivery"> Delivery</label>
+                                    </div>
+                                    <div class="checkbox">
+                                        <label><input type="checkbox" class="icheck" name="NearMe"> Near Me</label>
+                                    </div>
+                                    <input type="hidden" id="long" name="longitude" value="0" />
+                                    <input type="hidden" id="lat" name="latitude" value="0" />
+                                    <!-- END FILTER BY Others -->
+                                </div>
+                                <!-- END FILTERS -->
+                                <!-- BEGIN RESULT -->
+                                <div class="col-md-9">
+                                    <h2 class="grid-title" style="color:#fb5849"><i class="fa fa-search"></i> Search</h2>
+                                    <hr>
+                                    <!-- BEGIN SEARCH INPUT -->
+                                    <div class="input-group">
+                                        <input type="text" name="Search" class="form-control" id="name" placeholder="Are you starving?">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-primary" type="submit" style="background-color:#fb5849;border-color:#fb5849;"><i class="fa fa-search"></i></button>
+                                        </span>
+                                    </div>
+                                </div>
+                                <!-- END RESULT -->
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- END SEARCH RESULT -->
+        </div>
+    </div>
+    </div>
+</section>
+<!-- Section: Design Block -->
+<!-- ***** Restaurants Area Starts ***** -->
+<section class="section" id="menu">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="section-heading">
+                    <h6>Top Restaurants</h6>
+                    <h2>based on users reviews</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="menu-item-carousel">
+        <div class="col-lg-12">
+            <div class="owl-menu-item owl-carousel">
+                @foreach (Restaurant restaurant in Model)
+                {
+                    <div class="item">
+                        <div class='card'>
+                            <div class="price"><h6>@restaurant.TotalStars.ToString("F1")</h6></div>
+                            @if (restaurant.Photos != null && restaurant.Photos.Any())
+                            {
+                                <img src="@Url.Action("GetImage", "Search", new { id = restaurant.Photos.First().PhotoId })" alt="@restaurant.Name">
+                            }
+                            else
+                            {
+                                <img src="~/images/tasteFinder.png" alt="@restaurant.Name">
+                            }
+
+                            <h1 class='title' style="color:#fb5849">@restaurant.Name</h1>
+                            <div class="main-text-button" style="color:#fb5849">
+                                <div class="scroll-to-section" style="color:#fb5849;background-color:#fb5849"><a href="/Search/ProfileView?id=@restaurant.Email">View Restaurant<i class="fa fa-angle-down"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ***** Restaurants Area Ends ***** -->
+
+<script>
+
+
+    navigator.geolocation.getCurrentPosition((position) => {
+        document.getElementById('long').value = position.coords.longitude;
+        document.getElementById('lat').value = position.coords.latitude;
+    });
+  
+
+</script>                       

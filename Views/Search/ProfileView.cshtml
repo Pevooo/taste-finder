@@ -1,0 +1,641 @@
+@{
+    ViewData["Title"] = "Restaurant Profile";
+}
+@namespace TasteFinder.ViewModels
+@model RestaurantandUser
+<style>
+    body {
+        padding-top: 20px;
+        background-color: #f1f5f9;
+    }
+
+    .card {
+        border: 0;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 4px rgba(0,0,20,.08), 0 1px 2px rgba(0,0,20,.08);
+    }
+
+    .rounded-bottom {
+        border-bottom-left-radius: 0.375rem !important;
+        border-bottom-right-radius: 0.375rem !important;
+    }
+
+    .avatar-xxl {
+        height: 7.5rem;
+        width: 7.5rem;
+    }
+
+    .nav-lt-tab {
+        border-top: 1px solid var(--dashui-border-color);
+    }
+
+    .px-4 {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    .avatar-sm {
+        height: 2rem;
+        width: 2rem;
+    }
+
+    .nav-lt-tab .nav-item {
+        margin: -0.0625rem 1rem 0;
+    }
+
+        .nav-lt-tab .nav-item .nav-link {
+            border-radius: 0;
+            border-top: 2px solid transparent;
+            color: var(--dashui-gray-600);
+            font-weight: 500;
+            padding: 1rem 0;
+        }
+
+    .pt-20 {
+        padding-top: 8rem !important;
+    }
+
+    .avatar-xxl.avatar-indicators:before {
+        bottom: 5px;
+        height: 16%;
+        right: 17%;
+        width: 16%;
+    }
+
+    .avatar-online:before {
+        background-color: #198754;
+    }
+
+    .avatar-indicators:before {
+        border: 2px solid #FFF;
+        border-radius: 50%;
+        bottom: 0;
+        content: "";
+        display: table;
+        height: 30%;
+        position: absolute;
+        right: 5%;
+        width: 30%;
+    }
+
+    .avatar-xxl {
+        height: 7.5rem;
+        width: 7.5rem;
+    }
+
+    .mt-n10 {
+        margin-top: -3rem !important;
+    }
+
+    .me-2 {
+        margin-right: 0.5rem !important;
+    }
+
+    .align-items-end {
+        align-items: flex-end !important;
+    }
+
+    .rounded-circle {
+        border-radius: 50% !important;
+    }
+
+    .border-2 {
+        --dashui-border-width: 2px;
+    }
+
+    .border {
+        border: 1px solid #dcdcdc !important;
+    }
+
+    .py-6 {
+        padding-bottom: 1.5rem !important;
+        padding-top: 1.5rem !important;
+    }
+
+    .bg-gray-300 {
+        --dashui-bg-opacity: 1;
+        background-color: #cbd5e1 !important;
+    }
+
+    .mb-6 {
+        margin-bottom: 1.5rem !important;
+    }
+
+    .align-items-center {
+        align-items: center !important;
+    }
+
+
+    .mb-4 {
+        margin-bottom: 1rem !important;
+    }
+
+    .mb-8 {
+        margin-bottom: 2rem !important;
+    }
+
+    .shadow-none {
+        box-shadow: none !important;
+    }
+
+    .card > .list-group:last-child {
+        border-bottom-left-radius: 0.5rem;
+        border-bottom-right-radius: 0.5rem;
+        border-bottom-width: 0;
+    }
+
+    .card > .list-group:first-child {
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        border-top-width: 0;
+    }
+
+    .card > .list-group {
+        border-bottom: inherit;
+        border-top: inherit;
+    }
+
+</style>
+<body>
+
+
+    <!-- ***** Review Us Area Starts ***** -->
+    <section class="section" id="reservation">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 align-self-center">
+                    <div class="left-text-content">
+                        <div class="avatar-xxl
+                            position-relative d-flex justify-content-end
+                            align-items-end" style="margin-right: 0.6rem;">
+                            @if (Model.Restaurant.Restaurant.Photos != null && Model.Restaurant.Restaurant.Photos.Count > 0)
+                            {
+                                <img src="data:image/jpeg;base64,@Convert.ToBase64String(Model.Restaurant.Restaurant.Photos.First().PhotoData)" alt="Restaurant Photo" class="avatar-xxl
+                                    rounded-circle border border-2 " />
+                            }
+                            else
+                            {
+                                <img src="~/images/tasteFinder.png" alt="Default Restaurant Photo" class="avatar-xxl
+                                    rounded-circle border border-2 " alt="Image" />
+                            }
+                            <h2 class="section-heading" style="color:white; margin-left:20px;">
+                                @Model.Restaurant.Restaurant.Name
+                                <a href="#!" class="text-decoration-none">
+                                </a>
+
+                            </h2>
+                        </div>
+
+                        <br /><br />
+                        <div class="section-heading">
+                            <h6>Opening Hours</h6>
+                        </div>
+                        <p>From @Model.Restaurant.Restaurant.OpenTime.ToString("hh:mm tt") To @Model.Restaurant.Restaurant.CloseTime.ToString("hh:mm tt")</p>
+                        <div class="section-heading">
+                            <h6>Contact Us</h6>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="phone">
+                                    <i class="fa fa-phone"></i>
+                                    <br />
+                                    <span><a href="#">@Model.Restaurant.Restaurant.PhoneNumber</a></span>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="message">
+                                    <i class="fa fa-envelope"></i>
+                                    <br />
+                                    <span><a href="#">@Model.Restaurant.Restaurant.Email</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br /><br /><br />
+                @if (User.IsInRole("User"))
+                {
+                    <div class="col-lg-6">
+                        <div class="section-heading">
+                            <h6>Here You Can Make A Review</h6>
+                        </div>
+                        <div class="contact-form">
+                            <form id="contact" asp-controller="Review" asp-action="CreateReview" method="post">
+                                <input type="hidden" id="starsInput" name="stars" value="0" />
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h4>Review</h4>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <fieldset style="">
+                                            <div style="margin-left:39%;">
+                                                <svg onclick="stars(1)" id="1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                                                    <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z" />
+                                                </svg>
+                                                <svg onclick="stars(2)" id="2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                                                    <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z" />
+                                                </svg>
+                                                <svg onclick="stars(3)" id="3" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                                                    <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z" />
+                                                </svg>
+                                                <svg onclick="stars(4)" id="4" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                                                    <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z" />
+                                                </svg>
+                                                <svg onclick="stars(5)" id="5" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star" viewBox="0 0 16 16">
+                                                    <path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z" />
+                                                </svg>
+                                            </div>
+                                        </fieldset>
+                                    </div>
+                                    <br />
+                                    <br />
+                                    <br />
+                                    <div class="col-lg-12">
+                                        <fieldset>
+                                            <input name="id" type="hidden" id="email" placeholder="Your Email Address" value="@Model.Restaurant.Restaurant.Email" />
+
+                                        </fieldset>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <fieldset>
+                                            <textarea name="comment" rows="6" id="message" placeholder="Comment"></textarea>
+
+                                        </fieldset>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <fieldset>
+                                            <button type="submit" value="commit!" id="form-submit" class="main-button-icon">Send</button>
+
+                                        </fieldset>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </section>
+    <!-- ***** Review Area Ends ***** -->
+    <!-- ***** features Area Starts ***** -->
+    <section class="section" id="offers">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 offset-lg-4 text-center">
+                    <div class="section-heading">
+                        <h6>@Model.Restaurant.Restaurant.Name Offers</h6>
+                        <h2>These Special Features</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row" id="tabs">
+                        <div class="col-lg-12">
+                            <div class="heading-tabs">
+                                <div class="row">
+                                    <div class="col-lg-6 offset-lg-3">
+                                        <ul>
+                                            <li><a href='#tabs-1'><img src="~/images/tab-icon-01.png" alt="">Customer Focus</a></li>
+                                            <li><a href='#tabs-2'><img src="~/images/tab-icon-02.png" alt="">Dietary Options</a></a></li>
+                                            <li><a href='#tabs-3'><img src="~/images/tab-icon-03.png" alt="">Services</a></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <section class='tabs-content'>
+                                <article id='tabs-1'>
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="left-list">
+                                                    @if (Model.Restaurant.Restaurant.Food)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/food.jpg" alt="">
+                                                                <h4>Food</h4>
+                                                                <p>Our menu offers a variety of delicious dishes, prepared with fresh ingredients to delight your taste buds.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                    @if (Model.Restaurant.Restaurant.Drinks)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/tab-item-02.png" alt="">
+                                                                <h4>Drinks</h4>
+                                                                <p>"Enjoy a selection of refreshing beverages, from classic sodas to exotic cocktails and mocktails.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                    @if (Model.Restaurant.Restaurant.Desserts)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/menu-item-04_small.jpg" alt="">
+                                                                <h4>Desserts</h4>
+                                                                <p>Indulge in our decadent desserts, from rich chocolate cakes to creamy cheesecakes and fruity delights.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="right-list">
+                                                    @if (Model.Restaurant.Restaurant.KidsArea)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/kidsArea.jpg" alt="">
+                                                                <h4>Kids Area</h4>
+                                                                <p>The kids' area is filled with fun games and activities for all ages, ensuring a great time.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                    @if (Model.Restaurant.Restaurant.OpenAir)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/openAir.jpg" alt="">
+                                                                <h4>Open Air</h4>
+                                                                <p>Dine in our beautiful open-air patio, where you can relax and enjoy the fresh breeze while eating.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                    @if (Model.Restaurant.Restaurant.Seats)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/seats.jpg" alt="">
+                                                                <h4>Seats</h4>
+                                                                <p>Comfortable seating options are available throughout the restaurant, ensuring a pleasant dining experience for all.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article id='tabs-2'>
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="left-list">
+                                                    @if (Model.Restaurant.Restaurant.Healthy)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/tab-item-01.png" alt="">
+                                                                <h4>Healthy</h4>
+                                                                <p>Our healthy menu options are crafted with nutritious ingredients, perfect for a balanced diet.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="right-list">
+                                                    @if (Model.Restaurant.Restaurant.Vegan)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/tab-item-03.png" alt="">
+                                                                <h4>Vegan</h4>
+                                                                <p>We offer a variety of delicious vegan dishes, made with fresh and wholesome plant-based ingredients.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article id='tabs-3'>
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="left-list">
+                                                    @if (Model.Restaurant.Restaurant.Delivery)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/delivery.jpg" alt="">
+                                                                <h4>Delivery</h4>
+                                                                <p>We offer fast and reliable delivery service, bringing your favorite meals straight to your doorstep.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="right-list">
+                                                    @if (Model.Restaurant.Restaurant.Buffet)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/buffet.jpg" alt="">
+                                                                <h4>Buffet</h4>
+                                                                <p>Our buffet spread includes an extensive variety of dishes, ensuring there's something for everyone to enjoy.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </article>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Features area ends-->
+    <!--Recent reviews area starts-->
+    <section class="section" id="chefs">
+        <div class="container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 offset-lg-4 text-center">
+                        <div class="section-heading">
+                            <h6>@Model.Restaurant.Restaurant.Name</h6>
+                            <h2>Gallery</h2>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="main-banner header-text">
+                        <div class="Modern-Slider">
+                            @{
+                                if (Model.Restaurant.PhotoPaths != null)
+                                {
+                                    @foreach (var photoPath in Model.Restaurant.PhotoPaths)
+                                    {
+                                        <div class="item">
+                                            <div class="img-fill">
+                                                <img src="@photoPath" alt="Image">
+                                            </div>
+                                        </div>
+                                    }
+                                }
+
+                            }
+                        </div>
+                    </div>
+                </div>
+                <br />
+            </div>
+        </div>
+    </section>
+        <!-- page content -->
+        <div class="py-6">
+            <div class="row">
+                <div class="offset-lg-1 col-lg-10 col-md-12 col-12">
+                    <!-- row -->
+                    <!-- hr -->
+
+                    <div class="mb-8">
+                        <!-- card -->
+                        <div class="card bg-gray-300 shadow-none mb-4" style="min-height: 50px;">
+                            <!-- card body -->
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between
+                                    align-items-center">
+                                    <div>
+                                        <h5 class="mb-0">Recent Reviews</h5>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- card -->
+                        <div class="card">
+                            <!-- list group -->
+                            <ul class="list-group list-group-flush">
+                                <!-- list group item -->
+                                @{
+                                    int cnt = 6;
+                                    foreach (var review in @Model.Restaurant.Reviews)
+                                    {
+                                        cnt++;
+                                        <li class="list-group-item p-3">
+                                            <div class="d-flex justify-content-between
+                                                                align-items-center">
+                                                <!-- content -->
+
+                                                <div class="ms-3">
+                                                    <p class="mb-0 font-weight-medium">
+                                                        <a href="#!">@review.Author.Name </a>made a review
+                                                        for <a href="#!">@review.Restaurant.Name</a> restaurant: @review.Text
+                                                    </p>
+                                                </div>
+                                                <div>
+
+                                                    @if (review.Author.Email != User.Identity.Name)
+                                                    {
+
+                                                        <div>
+
+                                                            <button id="@cnt" data-id="@review.ReviewId" onclick="add_contribution(@cnt, true)" style="background-color: transparent; border: none; padding: 0; outline: none; box-shadow: none; margin: 0; width: auto; height: auto;">
+                                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-up-circle" viewBox="0 0 16 16" style="color:#fb5849">
+                                                                    <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-7.5 3.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707z" />
+                                                                </svg>
+                                                            </button>
+                                                            @{
+                                                                cnt++;
+                                                            }
+                                                            <button id="@cnt" data-id="@review.ReviewId" onclick="add_contribution(@cnt, false)" style="background-color: transparent; border: none; padding: 0; outline: none; box-shadow: none; margin: 0; width: auto; height: auto;">
+                                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-down-circle" viewBox="0 0 16 16" style="color:#fb5849">
+                                                                    <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8m15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293z" />
+                                                                </svg>
+                                                            </button>
+
+                                                        </div>
+                                                    }
+                                                    else
+                                                    {
+
+                                                        <div>
+                                                            <a href="@Url.Action("RemoveReview", "User", new { id = review.ReviewId, restaurantEmail = Model.Restaurant.Restaurant.Email})">
+                                                                <!-- Other form fields -->
+                                                                <button type="submit" style="background-color: transparent; border: none; padding: 0; outline: none; box-shadow: none; margin: 0; width: auto; height: auto;">
+                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2 icon-xs" style="color:#fb5849;"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg>
+                                                                </button>
+                                                            </a>
+                                                            @*<a href="@Url.Action("RemoveReview", "User", new { id = review.ReviewId})" class="text-muted"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-trash-2 icon-xs" style="color:#fb5849;"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="10" y1="11" x2="10" y2="17"></line><line x1="14" y1="11" x2="14" y2="17"></line></svg></a>
+
+                                                *@
+                                                            <a href="@Url.Action("UpdateReview", "User", new { id = review.ReviewId})" class="text-muted">
+                                                                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16" style="color:#fb5849;">
+                                                                    <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z" />
+                                                                    <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5z" />
+                                                                </svg>
+                                                            </a>
+                                                        </div>
+                                                    }
+                                                </div>
+
+                                            </div>
+                                        </li>
+                                    }
+                                }
+                            </ul>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!--Recent reviews area ends-->
+
+
+</body>
+
+
+<script>
+    function add_contribution(thisObjectId, imp) {
+        console.log(thisObjectId);
+        let text = thisObjectId.toString();
+        console.log(text);
+        let vote = "Down";
+        if (imp) vote = "Up";
+        let button = document.getElementById(text);
+        console.log(button);
+        let reviewId = button.getAttribute('data-id');
+
+        fetch(`/Review/Contribute?id=${reviewId}&impression=${vote}`);
+    }
+
+    function stars(n) {
+        let input = document.getElementById('starsInput');
+        input.value = n;
+        for (let i = 1; i <= n; i++) {
+            let star = document.getElementById(i.toString());
+            star.setAttribute('class', 'bi bi-star-fill');
+            star.setAttribute('fill', 'yellow');
+            star.innerHTML = `<path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z" />`
+        }
+        for (let i = n + 1; i <= 5; i++) {
+            let star = document.getElementById(i.toString());
+            star.setAttribute('class', 'bi bi-star');
+            star.setAttribute('fill', 'currentColor');
+            star.innerHTML = `<path d="M2.866 14.85c-.078.444.36.791.746.593l4.39-2.256 4.389 2.256c.386.198.824-.149.746-.592l-.83-4.73 3.522-3.356c.33-.314.16-.888-.282-.95l-4.898-.696L8.465.792a.513.513 0 0 0-.927 0L5.354 5.12l-4.898.696c-.441.062-.612.636-.283.95l3.523 3.356-.83 4.73zm4.905-2.767-3.686 1.894.694-3.957a.56.56 0 0 0-.163-.505L1.71 6.745l4.052-.576a.53.53 0 0 0 .393-.288L8 2.223l1.847 3.658a.53.53 0 0 0 .393.288l4.052.575-2.906 2.77a.56.56 0 0 0-.163.506l.694 3.957-3.686-1.894a.5.5 0 0 0-.461 0z" />`
+        }
+    }
+</script>
+

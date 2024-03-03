@@ -1,0 +1,1681 @@
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\appsettings.json
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+D:\Important Documents\New folder\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\New folder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\appsettings.json
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+D:\Important Documents\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\appsettings.json
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Tast Finder2\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+C:\Tast Finder2\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\appsettings.json
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+E:\TasteFinder\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\appsettings.json
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+C:\Users\abdo\Desktop\SE\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\appsettings.json
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TastFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+C:\TastFinder\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Important Documents\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+E:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\abdo\Desktop\SE\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\appsettings.json
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TasteFinder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+C:\TasteFinder\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\appsettings.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+C:\Users\Marley Amged\Desktop\New folder\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\appsettings.json
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+C:\Users\Marley Amged\Desktop\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\appsettings.json
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pevo\Desktop\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+C:\Users\Pevo\Desktop\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\TasteFinder\bin\Debug\net8.0\appsettings.json
+D:\Projects\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+D:\Projects\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+D:\Projects\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+D:\Projects\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+D:\Projects\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+D:\Projects\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+D:\Projects\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+D:\Projects\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+D:\Projects\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+D:\Projects\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+D:\Projects\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+D:\Projects\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+D:\Projects\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+D:\Projects\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\appsettings.json
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\TasteFinder.staticwebassets.runtime.json
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\TasteFinder.exe
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\TasteFinder.deps.json
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\TasteFinder.runtimeconfig.json
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\TasteFinder.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\TasteFinder.pdb
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ChatAIze.GenerativeCS.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\final\TasteFinder\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.AssemblyReference.cache
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfoInputs.cache
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.AssemblyInfo.cs
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.csproj.CoreCompileInputs.cache
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cache
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.RazorAssemblyInfo.cs
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.sourcelink.json
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.TasteFinder.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.build.TasteFinder.props
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TasteFinder.props
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TasteFinder.props
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\scopedcss\bundle\TasteFinder.styles.css
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\scopedcss\projectbundle\TasteFinder.bundle.scp.css
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFin.0F989F1E.Up2Date
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.dll
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\refint\TasteFinder.dll
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.pdb
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\TasteFinder.genruntimeconfig.cache
+D:\Projects\final\TasteFinder\obj\Debug\net8.0\ref\TasteFinder.dll

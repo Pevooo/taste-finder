@@ -1,0 +1,505 @@
+@{
+    ViewData["Title"] = "Profile";
+}
+@namespace TasteFinder.Views.ViewModels
+@model RestaurantProfile
+<style>
+    body {
+        padding-top: 20px;
+        background-color: #f1f5f9;
+    }
+
+    .card {
+        border: 0;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 4px rgba(0,0,20,.08), 0 1px 2px rgba(0,0,20,.08);
+    }
+
+    .rounded-bottom {
+        border-bottom-left-radius: 0.375rem !important;
+        border-bottom-right-radius: 0.375rem !important;
+    }
+
+    .avatar-xxl {
+        height: 7.5rem;
+        width: 7.5rem;
+    }
+
+    .nav-lt-tab {
+        border-top: 1px solid var(--dashui-border-color);
+    }
+
+    .px-4 {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    .avatar-sm {
+        height: 2rem;
+        width: 2rem;
+    }
+
+    .nav-lt-tab .nav-item {
+        margin: -0.0625rem 1rem 0;
+    }
+
+        .nav-lt-tab .nav-item .nav-link {
+            border-radius: 0;
+            border-top: 2px solid transparent;
+            color: var(--dashui-gray-600);
+            font-weight: 500;
+            padding: 1rem 0;
+        }
+
+    .pt-20 {
+        padding-top: 8rem !important;
+    }
+
+    .avatar-xxl.avatar-indicators:before {
+        bottom: 5px;
+        height: 16%;
+        right: 17%;
+        width: 16%;
+    }
+
+    .avatar-online:before {
+        background-color: #198754;
+    }
+
+    .avatar-indicators:before {
+        border: 2px solid #FFF;
+        border-radius: 50%;
+        bottom: 0;
+        content: "";
+        display: table;
+        height: 30%;
+        position: absolute;
+        right: 5%;
+        width: 30%;
+    }
+
+    .avatar-xxl {
+        height: 7.5rem;
+        width: 7.5rem;
+    }
+
+    .mt-n10 {
+        margin-top: -3rem !important;
+    }
+
+    .me-2 {
+        margin-right: 0.5rem !important;
+    }
+
+    .align-items-end {
+        align-items: flex-end !important;
+    }
+
+    .rounded-circle {
+        border-radius: 50% !important;
+    }
+
+    .border-2 {
+        --dashui-border-width: 2px;
+    }
+
+    .border {
+        border: 1px solid #dcdcdc !important;
+    }
+
+    .py-6 {
+        padding-bottom: 1.5rem !important;
+        padding-top: 1.5rem !important;
+    }
+
+    .bg-gray-300 {
+        --dashui-bg-opacity: 1;
+        background-color: #cbd5e1 !important;
+    }
+
+    .mb-6 {
+        margin-bottom: 1.5rem !important;
+    }
+
+    .align-items-center {
+        align-items: center !important;
+    }
+
+
+    .mb-4 {
+        margin-bottom: 1rem !important;
+    }
+
+    .mb-8 {
+        margin-bottom: 2rem !important;
+    }
+
+    .shadow-none {
+        box-shadow: none !important;
+    }
+
+    .card > .list-group:last-child {
+        border-bottom-left-radius: 0.5rem;
+        border-bottom-right-radius: 0.5rem;
+        border-bottom-width: 0;
+    }
+
+    .card > .list-group:first-child {
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        border-top-width: 0;
+    }
+
+    .card > .list-group {
+        border-bottom: inherit;
+        border-top: inherit;
+    }
+
+</style>
+<body>
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-12">
+                <!-- Bg -->
+                <div class="pt-20 rounded-top" style="background-image: url('/images/white-logo.jpg'); background-size: cover;">
+                    @*<img src="~/images/white-logo.jpg" alt="">*@
+                </div>
+                <div class="card rounded-bottom smooth-shadow-sm" style="min-height:200px;">
+                    <div class="d-flex align-items-center justify-content-between
+                      pt-4 pb-6 px-4">
+                        <!-- avatar -->
+                        <div class="d-flex align-items-center">
+                            <div class="avatar-xxl avatar-indicators avatar-online
+                            position-relative d-flex justify-content-end
+                            align-items-end" style="margin-right: 0.6rem;">
+                                @if (Model.Restaurant.Photos != null && Model.Restaurant.Photos.Count > 0)
+                                {
+                                    <img src="data:image/jpeg;base64,@Convert.ToBase64String(Model.Restaurant.Photos.First().PhotoData)" alt="Restaurant Photo" class="avatar-xxl
+                                    rounded-circle border border-2 " />
+                                }
+                                else
+                                {
+                                    <img src="~/images/tasteFinder.png" alt="Default Restaurant Photo" class="avatar-xxl
+                                    rounded-circle border border-2 " alt="Image" />
+                                }
+                            </div>
+                            <!-- content -->
+                            <div class="lh-1">
+                                <h2 class="mb-0">
+                                    @Model.Restaurant.Name Restaurant
+                                    <a href="#!" class="text-decoration-none">
+                                    </a>
+                                </h2>
+                            </div>
+                        </div>
+                        <div>
+                            <!-- button -->
+                            <a href="/Restaurant/Edit" class="btn btn-block mb-4" style="background-color:#fb5849; border-color:#fb5849; color:white;">Edit Profile</a>
+                            <a href="/Restaurant/Remove" class="btn btn-block mb-4" style="background-color:#fb5849; border-color:#fb5849; color:white;">Remove My Account</a>
+                        </div>
+                    </div>
+                    <!-- nav -->
+                    <ul class="nav nav-lt-tab px-4" id="pills-tab" role="tablist">
+                        <li class="nav-item">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** features Area Starts ***** -->
+    <section class="section" id="offers">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 offset-lg-4 text-center">
+                    <div class="section-heading">
+                        <h6>@Model.Restaurant.Name</h6>
+                        <h2>Features</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row" id="tabs">
+                        <div class="col-lg-12">
+                            <div class="heading-tabs">
+                                <div class="row">
+                                    <div class="col-lg-6 offset-lg-3">
+                                        <ul>
+                                            <li><a href='#tabs-1'><img src="~/images/tab-icon-01.png" alt="">Customer Focus</a></li>
+                                            <li><a href='#tabs-2'><img src="~/images/tab-icon-02.png" alt="">Dietary Options</a></a></li>
+                                            <li><a href='#tabs-3'><img src="~/images/tab-icon-03.png" alt="">Services</a></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <section class='tabs-content'>
+                                <article id='tabs-1'>
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="left-list">
+                                                    @if (Model.Restaurant.Food)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/food.jpg" alt="">
+                                                                <h4>Food</h4>
+                                                                <p>Our menu offers a variety of delicious dishes, prepared with fresh ingredients to delight your taste buds.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                    @if (Model.Restaurant.Drinks)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/tab-item-02.png" alt="">
+                                                                <h4>Drinks</h4>
+                                                                <p>"Enjoy a selection of refreshing beverages, from classic sodas to exotic cocktails and mocktails.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                    @if (Model.Restaurant.Desserts)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/menu-item-04_small.jpg" alt="">
+                                                                <h4>Desserts</h4>
+                                                                <p>Indulge in our decadent desserts, from rich chocolate cakes to creamy cheesecakes and fruity delights.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="right-list">
+                                                    @if (Model.Restaurant.KidsArea)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/kidsArea.jpg" alt="">
+                                                                <h4>Kids Area</h4>
+                                                                <p>The kids' area is filled with fun games and activities for all ages, ensuring a great time.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                    @if (Model.Restaurant.OpenAir)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/openAir.jpg" alt="">
+                                                                <h4>Open Air</h4>
+                                                                <p>Dine in our beautiful open-air patio, where you can relax and enjoy the fresh breeze while eating.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                    @if (Model.Restaurant.Seats)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/seats.jpg" alt="">
+                                                                <h4>Seats</h4>
+                                                                <p>Comfortable seating options are available throughout the restaurant, ensuring a pleasant dining experience for all.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article id='tabs-2'>
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="left-list">
+                                                    @if (Model.Restaurant.Healthy)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/tab-item-01.png" alt="">
+                                                                <h4>Healthy</h4>
+                                                                <p>Our healthy menu options are crafted with nutritious ingredients, perfect for a balanced diet.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="right-list">
+                                                    @if (Model.Restaurant.Vegan)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/tab-item-03.png" alt="">
+                                                                <h4>Vegan</h4>
+                                                                <p>We offer a variety of delicious vegan dishes, made with fresh and wholesome plant-based ingredients.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </article>
+                                <article id='tabs-3'>
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="left-list">
+                                                    @if (Model.Restaurant.Delivery)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/delivery.jpg" alt="">
+                                                                <h4>Delivery</h4>
+                                                                <p>We offer fast and reliable delivery service, bringing your favorite meals straight to your doorstep.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <div class="row">
+                                                <div class="right-list">
+                                                    @if (Model.Restaurant.Buffet)
+                                                    {
+                                                        <div class="col-lg-12">
+                                                            <div class="tab-item">
+                                                                <img src="~/images/buffet.jpg" alt="">
+                                                                <h4>Buffet</h4>
+                                                                <p>Our buffet spread includes an extensive variety of dishes, ensuring there's something for everyone to enjoy.</p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </article>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Features area ends-->
+        <section class="section" id="chefs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 offset-lg-4 text-center">
+                        <div class="section-heading">
+                            <h6>@Model.Restaurant.Name</h6>
+                            <h2>Gallery</h2>
+                        </div>
+                    </div>
+                </div>
+                <div> 
+                    <div class="main-banner header-text">
+                        <div class="Modern-Slider">
+                            @foreach (var photoPath in Model.PhotoPaths)
+                            {
+                                <div class="item">
+                                    <div class="img-fill">
+                                        <img src="@photoPath" alt="Image">
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <br />
+            <form asp-action="AddPhotos" asp-controller="Restaurant" method="post" data-wow-delay="0.1s" enctype="multipart/form-data">
+                   <!-- Photo input -->
+                    <div class="col-lg-12">
+                        <fieldset>
+                            <input type="file" class="form-control" id="file" name="uploadPhotos" placeholder="Upload Photos" style="background-color:white;" required />
+                            <label class="form-label" for="file">Upload Restaurant Photos</label>
+                        </fieldset>
+                    </div>
+                    <div class="main-white-button scroll-to-section text-center">
+                        <button type="submit" class="btn btn-block mb-4" style="background-color:#fb5849; border-color:#fb5849; color:white;">
+                            <h6>Upload</h6>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </section>
+    <!-- page content -->
+    <div class="py-6">
+        <div class="row">
+            <div class="offset-lg-1 col-lg-10 col-md-12 col-12">
+                <!-- row -->
+                <!-- hr -->
+
+                <div class="mb-8">
+                    <!-- card -->
+                    <div class="card bg-gray-300 shadow-none mb-4" style="min-height: 50px;">
+                        <!-- card body -->
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between
+                                    align-items-center">
+                                <div>
+                                    <h5 class="mb-0">Recent Activities</h5>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <!-- card -->
+                    <div class="card">
+                        <!-- list group -->
+                        <ul class="list-group list-group-flush">
+                            <!-- list group item -->
+                            @{
+                                @foreach (var review in @Model.Reviews)
+                                {
+                                    <li class="list-group-item p-3">
+                                            <div class="d-flex justify-content-between
+                                                align-items-center">
+                                                  <!-- content -->
+                                        
+                                                <div class="ms-3">
+                                                    <p class="mb-0 font-weight-medium">
+                                                        <a href="#!">Someone </a>made a review
+                                                        for your restaurant : @review.Text
+                                                    </p>
+                                                </div>
+                                            </div>
+                                    </li>
+                                }
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Recent reviews area ends-->
+</body>
+<script>
+
+    document.addEventListener("DOMContentLoaded", function () {
+        let FileType = document.getElementById('fileType');
+        let File = document.getElementById('file');
+
+        document.getElementById('myForm').addEventListener('submit', function (event) {
+            let realType = File.files[0].type;
+            FileType.value = realType;
+        });
+    });
+
+
+
+</script>
+
+

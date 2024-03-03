@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" type="x-icon" href="~/images/tasteFinder.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=yes" />
+    <title>@ViewData["Title"] - TasteFinder</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Additional CSS Files -->
+    
+    <link rel="stylesheet" type="text/css" href="~/css/font-awesome.css">
+    <link rel="stylesheet" href="~/css/templatemo-klassy-cafe.css">
+    <link rel="stylesheet" href="~/css/owl-carousel.css">
+    <link rel="stylesheet" href="~/css/lightbox.css">
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.min.css">
+    <!-- =======================================================
+    TemplateMo 558 Klassy Cafe
+    https://templatemo.com/tm-558-klassy-cafe
+    ======================================================== -->
+</head>
+<body>
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <!-- ***** Preloader End ***** -->
+
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        <!-- ***** Logo Start ***** -->
+                        <a asp-controller="Home" asp-action="Index" class="logo">
+                            <img src="~/images/klassy-logo.png" align="klassy cafe html template">
+                        </a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            <li><a asp-area="" asp-controller="Home" asp-action="Index" class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Home" && ViewContext.RouteData.Values["action"].ToString() == "Index" ? "active" : "")">Home</a></li>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <li><a asp-area="" asp-controller="Search" asp-action="Index" class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Search" && ViewContext.RouteData.Values["action"].ToString() == "Index" ? "active" : "")">Search</a></li>
+                                <li><a asp-controller="Chatbot" asp-action="chatbot2" class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Chatbot" && ViewContext.RouteData.Values["action"].ToString() == "Chatbot2" ? "active" : "")">Chatbot</a></li>
+                                if (User.IsInRole("User"))
+                                {
+                                    <li><a asp-controller="User" asp-action="userprofile" class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "User" && ViewContext.RouteData.Values["action"].ToString() == "userprofile" ? "active" : "")">My Profile</a></li>
+                                }
+                                else
+                                
+                                {
+                                    <li><a asp-controller="Restaurant" asp-action="profile" class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Restaurant" && ViewContext.RouteData.Values["action"].ToString() == "profile" ? "active" : "")">My Profile</a></li>
+                                }
+                                <li><a asp-area="" asp-controller="Account" asp-action="Logout" class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Account" && ViewContext.RouteData.Values["action"].ToString() == "Logout" ? "active" : "")">Sign out</a></li>
+                            }
+                            else
+                            {
+                                <li class="scroll-to-section"><a asp-area="" asp-controller="Account" asp-action="LoginHome" class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Account" && ViewContext.RouteData.Values["action"].ToString() == "LoginHome" ? "active" : "")">Sign in</a></li>
+                                <li class="scroll-to-section"><a asp-area="" asp-controller="Account" asp-action="RegisterType" class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Account" && ViewContext.RouteData.Values["action"].ToString() == "RegisterType" ? "active" : "")">Sign up</a></li>
+                            }
+                        </ul>
+                        <a class='menu-trigger'>
+                            <span>Menu</span>
+                        </a>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+    
+    <div class="container col-lg-12">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- ***** Footer Start ***** -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-xs-12">
+                    <div class="right-text-content">
+                        <ul class="social-icons">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="logo">
+                        <a asp-controller="Home" asp-action="Index"><img src="~/images/white-logo.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-xs-12">
+                    <div class="left-text-content">
+                        <p>
+                            © Copyright TasteFinder.
+
+                            <br>Design: TemplateMo
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <!-- jQuery -->
+    <script src="~/js/jquery-2.1.0.min.js"></script>
+
+    
+
+    <!-- Plugins -->
+    <script src="~/js/owl-carousel.js"></script>
+    <script src="~/js/accordions.js"></script>
+    <script src="~/js/datepicker.js"></script>
+    <script src="~/js/scrollreveal.min.js"></script>
+    <script src="~/js/waypoints.min.js"></script>
+    <script src="~/js/jquery.counterup.min.js"></script>
+    <script src="~/js/imgfix.min.js"></script>
+    <script src="~/js/slick.js"></script>
+    <script src="~/js/lightbox.js"></script>
+    <script src="~/js/isotope.js"></script>
+
+    <!-- Global Init -->
+    <script src="~/js/custom.js"></script>
+    <!-- Bootstrap -->
+    <script src="~js/popper.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script>
+
+        $(function() {
+            var selectedClass = "";
+            $("p").click(function(){
+            selectedClass = $(this).attr("data-rel");
+            $("#portfolio").fadeTo(50, 0.1);
+                $("#portfolio div").not("."+selectedClass).fadeOut();
+            setTimeout(function() {
+              $("."+selectedClass).fadeIn();
+              $("#portfolio").fadeTo(50, 1);
+            }, 500);
+
+            });
+        });
+
+
+
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

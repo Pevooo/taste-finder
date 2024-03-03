@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "Sign-In Page";
+}
+
+ <!-- ***** Main Banner Area Start ***** -->
+    <div id="top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="left-content">
+                        <div class="inner-content">
+                        
+                            <div class="card">
+                                <div class="card-body py-5 px-md-5">
+                                    <h6 style="color:#fb5849">WELCOME TO</h6>
+                                <h4 style="color:#fb5849">TasteFinder</h4>
+                                    <form method="post" asp-action="LoginVerfiy">
+                                        <!-- Email input -->
+                                        <div class="form-outline mb-4">
+                                            <input type="email" name="Email" id="form3Example3" class="form-control" />
+                                            <label class="form-label" for="form3Example3">Email address</label>
+                                        </div>
+
+                                        <!-- Password input -->
+                                        <div class="form-outline mb-4">
+                                            <input type="password" name="Password" id="form3Example4" class="form-control" />
+                                            <label class="form-label" for="form3Example4">Password</label>
+                                        </div>
+
+                                        <!-- Submit button -->
+                                        <div  class="main-white-button scroll-to-section text-center">
+                                		    <button type="submit" class="btn btn-lg" style="background-color:#fb5849; color:white;">
+    						                    <h6>SIGN IN</h6>
+						                    </button>
+                            		    </div>
+                                        <div class="text-center">
+                                            <a href="/Account/RegisterType" style="color:#fb5849">Don't Have an Account?!  SIGN UP Here</a>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="main-banner header-text">
+                        <div class="Modern-Slider">
+                          <!-- Item -->
+                          <div class="item">
+                            <div class="img-fill">
+                                <img src="~/images/slide-01.jpg" alt="">
+                            </div>
+                          </div>
+                          <!-- // Item -->
+                          <!-- Item -->
+                          <div class="item">
+                            <div class="img-fill">
+                                <img src="~/images/slide-02.jpg" alt="">
+                            </div>
+                          </div>
+                          <!-- // Item -->
+                          <!-- Item -->
+                          <div class="item">
+                            <div class="img-fill">
+                                <img src="~/images/slide-03.jpg" alt="">
+                            </div>
+                          </div>
+                          <!-- // Item -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ***** Main Banner Area End ***** -->

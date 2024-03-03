@@ -1,0 +1,261 @@
+﻿@{
+    ViewData["Title"] = "Restaurant Form Page";
+}
+@using TasteFinder.Controllers
+@model ValidateModel
+
+<style>
+	.closed-dropdown{
+		visibility: hidden;
+	}
+</style>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<!-- Section: Design Block -->
+<section class="text-center">
+	<!-- Background image -->
+	<div class="p-5 bg-image" style="
+        background-image: url('~/images/slide-01.jpg');
+        height: 300px;
+		"></div>
+	<!-- Background image -->
+
+	<div class="card mx-4 mx-md-5 shadow-5-strong" style="
+        margin-top: -100px;
+        background: hsla(0, 0%, 100%, 0.8);
+        backdrop-filter: blur(30px);
+		">
+		<div class="card-body py-5 px-md-5">
+
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-8">
+					<h2 class="fw-bold mb-5" style="color:#fb5849;">SIGN UP NOW</h2>
+					<form method="post" data-wow-delay="0.1s" enctype="multipart/form-data" asp-action="Restaurantform" id="myForm">
+						<input type="hidden" asp-for="OldPassword" />
+						<input type="hidden" asp-for="FileType" id="fileType"/>
+						<!-- Restaurant name -->
+						<div class="form-outline mb-4">
+							<input type="text" id="form3Example1" name="name" value="@Model.name"class ="form-control" style="color:black" />
+							<label class="form-label" for="form3Example1">User Name</label>
+							<span asp-validation-for="name" class="text-danger"></span>
+						</div>
+
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+						<div class="row">
+							<div class="col-md-6 mb-4">
+								<!-- Email input -->
+								<div class="form-outline">
+									<input type="email" id="form3Example3" name="email" value="@Model.email" class="form-control" style="color:black" />
+									<label class="form-label" for="form3Example3">Email Address</label>
+									<span asp-validation-for="email" class="text-danger"></span>
+								</div>
+								@if (ViewBag.found != null)
+								{
+									<p>@ViewBag.found</p>
+								}
+							</div>
+							<div class="col-md-6 mb-4">
+								<!-- Phone Number -->
+								<div class="form-outline">
+									<input type="text" id="form3Example2" name="phoneNumber" value="@Model.phonenumber" class="form-control" style="color:black" />
+									<label class="form-label" for="form3Example2">Phone Number</label>
+									<span asp-validation-for="phonenumber" class="text-danger"></span>
+								</div>
+							</div>
+						</div>
+
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+						<!-- Password input -->
+						<div class="form-outline mb-4">
+							<input type="password" id="form3Example4" name="NewPassword" class="form-control" style="color:black" />
+							<label class="form-label" for="form3Example4">Password</label>
+							<span asp-validation-for="NewPassword" class="text-danger"></span>
+
+							<input type="password" id="form3Example4" name="ConfirmPassword" class="form-control" style="color:black" />
+							<label class="form-label" for="form3Example4">Confirm Password</label>
+							<span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+						</div>
+
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+						<!-- Time input -->
+						<div class="row">
+							<div class="col-md-6 mb-4">
+								<div class="form-outline">
+									<input type="time" class="form-control datetimepicker-input" name="StartTime" id="open"
+										   placeholder="OpenTime" data-target="#date2" data-toggle="datetimepicker" style="color:black" required />
+									<label class="form-label" for="open">Open Time</label>
+								</div>
+							</div>
+							<div class="col-md-6 mb-4">
+								<div class="form-outline">
+									<input type="time" class="form-control datetimepicker-input" name="EndTime" id="close"
+										   placeholder="CloseTime" data-target="#date2" data-toggle="datetimepicker" style="color:black" required />
+									<label class="form-label" for="close">Close Time</label>
+								</div>
+							</div>
+						</div>
+
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+						
+							
+						<!-- Photo input -->
+						<div class="form-outline mb-4">
+							<input type="file" class="form-control" id="file" name="ProfilePicture" placeholder="ProfilePicture" style="background-color:white;" required />
+							<label class="form-label" for="file">Upload Restaurant Logo</label>
+							<span asp-validation-for="FileType" class="text-danger"></span>
+						</div>
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+						<!-- Checkbox -->
+						<div class="form-outline mb-4">
+							<label for="features">Select restaurant features:</label>
+							<br>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="KidsArea" />
+								<label class="form-check-label" for="inlineCheckbox1">Kids Area </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="OpenAir" />
+								<label class="form-check-label" for="inlineCheckbox1">Open Air </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="Seats" />
+								<label class="form-check-label" for="inlineCheckbox1">Seats </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="Food" />
+								<label class="form-check-label" for="inlineCheckbox1">Food </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="Drinks" />
+								<label class="form-check-label" for="inlineCheckbox1">Drinks </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="Desserts" />
+								<label class="form-check-label" for="inlineCheckbox1">Desserts </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="Delivery" />
+								<label class="form-check-label" for="inlineCheckbox1">Delivery </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="Vegan" />
+								<label class="form-check-label" for="inlineCheckbox1">Vegan </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="Healthy" />
+								<label class="form-check-label" for="inlineCheckbox1">Healthy </label>
+							</div>
+							<div class="form-check form-check-inline">
+								<input class="form-check-input" type="checkbox" id="inlineCheckbox1" name="Buffet" />
+								<label class="form-check-label" for="inlineCheckbox1">Buffet </label>
+							</div>
+						</div>
+						
+
+						<!--  input -->
+						<div class="row">
+							<div class="col-md-6 mb-4">
+								<div class="form-outline">
+									<input type="hidden" name="lat" id="lat" value="0" />
+								</div>
+							</div>
+							<div class="col-md-6 mb-4">
+								<div class="form-outline">
+									<input type="hidden" name="lng" id="lng" value="0" />
+								</div>
+							</div>
+						</div>
+
+						<!-- Map -->
+						<div id="map" style="height: 400px;"></div>
+
+						<br /><br />
+						<!-- Submit button -->
+						<div class="main-white-button scroll-to-section text-center">
+							<button type="submit" class="btn btn-block mb-4" style="background-color:#fb5849; border-color:#fb5849; color:white;">
+								<h6>SIGN UP</h6>
+							</button>
+						</div>
+						<br>
+						<div class="text-center">
+							<a href="/Account/LoginHome" style="color:#fb5849">Don't Have an Account?!  SIGN UP Here</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Section: Design Block -->
+
+<script>
+	const dropdown = document.getElementById("features");
+	const label = document.querySelector("label[for='features']");
+
+	label.addEventListener("click", function () {
+		dropdown.classList.toggle("closed-dropdown");
+	});
+</script>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+<script>
+	let lat = 0;
+	let lng = 0;
+	navigator.geolocation.getCurrentPosition((position) => {
+		lng = position.coords.longitude;
+		lat = position.coords.latitude;
+		map.setView([lat, lng], 13);
+		marker.setLatLng([lat, lng]);
+		document.getElementById('lat').value = lat;
+		document.getElementById('lng').value = lng;
+	});
+
+	
+	let locationMarker = document.getElementById('locationMarker');
+	let mouseX;
+	let mouseY;
+	var map = L.map("map").setView([lat, lng], 13);
+	var marker = L.marker([lat, lng]).addTo(map);
+	L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+		maxZoom: 19,
+	}).addTo(map);
+
+
+
+	function onMapClick(e) {
+		document.getElementById('lat').value = e.latlng.lat;
+		document.getElementById('lng').value = e.latlng.lng;
+		marker.setLatLng([e.latlng.lat, e.latlng.lng]);
+	}
+
+	map.on("click", onMapClick);
+
+
+
+
+	document.addEventListener("DOMContentLoaded", function () {
+		let FileType = document.getElementById('fileType');
+		let File = document.getElementById('file');
+
+		document.getElementById('myForm').addEventListener('submit', function (event) {
+			let realType = File.files[0].type;
+			FileType.value = realType;
+		});
+	});
+
+
+
+
+
+</script>

@@ -1,0 +1,83 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model ValidateModel
+
+<section class="text-center">
+	<!-- Background image -->
+	<div class="p-5 bg-image" style="
+        background-image: url('~/images/slide-01.jpg');
+        height: 300px;
+		"></div>
+	<!-- Background image -->
+
+	<div class="card mx-4 mx-md-5 shadow-5-strong" style="
+        margin-top: -100px;
+        background: hsla(0, 0%, 100%, 0.8);
+        backdrop-filter: blur(30px);
+		">
+		<div class="card-body py-5 px-md-5">
+
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-8">
+					<h1 class="fw-bold mb-5" style="color:#fb5849;">EDIT @Model.name INFO</h1>
+					<form asp-action="EditUser" method="post" enctype="multipart/form-data">
+						<input type="hidden" asp-for="OldPassword" />
+						<input type="hidden" asp-for="FileType" id="fileType" />
+						<input type="hidden" asp-for="NewPassword" />
+						<input type="hidden" asp-for="ConfirmPassword" />
+
+						<!-- Restaurant name -->
+						<div class="form-outline mb-4">
+							<input type="text" id="form3Example1" name="name" value="@Model.name" class="form-control" />
+							<label class="form-label" for="form3Example1">User Name</label>
+							<span asp-validation-for="name" class="text-danger"></span>
+						</div>
+
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<br />
+						<div class="row">
+							<div class="col-md-6 mb-4">
+								<!-- Email input -->
+								<div class="form-outline">
+									<input type="email" id="form3Example3" name="email" value="@Model.email" class="form-control" />
+									<label class="form-label" for="form3Example3">Email Address</label>
+									<span asp-validation-for="email" class="text-danger"></span>
+								</div>
+								@if (ViewBag.found != null)
+								{
+									<p>@ViewBag.found</p>
+								}
+							</div>
+
+							<div class="col-md-6 mb-4">
+								<!-- Phone Number -->
+								<div class="form-outline">
+									<input type="text" id="form3Example2" name="phoneNumber" value="@Model.phonenumber" class="form-control" />
+									<label class="form-label" for="form3Example2">Phone Number</label>
+									<span asp-validation-for="phonenumber" class="text-danger"></span>
+								</div>
+							</div>
+
+						</div>
+						<div class="form-outline mb-4">
+							<input type="file" accept="image/*" class="form-control" id="file" name="ProfilePicture" placeholder="ProfilePicture" style="background-color:white;"/>
+							<label class="form-label" for="file">Upload Profile Photo</label>
+							<span asp-validation-for="FileType" class="text-danger"></span>
+						</div>
+						<hr style="border-top: 1px solid lightgray; margin: 10px 0;">
+
+						<div class="main-white-button scroll-to-section text-center">
+							<button type="submit" class="btn btn-block mb-4" style="background-color:#fb5849; border-color:#fb5849; color:white;">
+								<h6>Save</h6>
+							</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
