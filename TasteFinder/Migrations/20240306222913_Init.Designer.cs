@@ -12,7 +12,7 @@ using TasteFinder.Models;
 namespace TasteFinder.Migrations
 {
     [DbContext(typeof(TasteFinderContext))]
-    [Migration("20240303215201_Init")]
+    [Migration("20240306222913_Init")]
     partial class Init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,6 +23,62 @@ namespace TasteFinder.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
+
+            modelBuilder.Entity("TasteFinder.Models.Contribution", b =>
+                {
+                    b.Property<int>("ContributionId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ContributionId"), 1L, 1);
+
+                    b.Property<string>("AuthorEmail")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int?>("ReviewId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ContributionId");
+
+                    b.HasIndex("AuthorEmail");
+
+                    b.HasIndex("ReviewId");
+
+                    b.ToTable("Contributions");
+                });
+
+            modelBuilder.Entity("TasteFinder.Models.Keyword", b =>
+                {
+                    b.Property<string>("Text")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("Text");
+
+                    b.ToTable("Keywords");
+                });
+
+            modelBuilder.Entity("TasteFinder.Models.KeywordPossession", b =>
+                {
+                    b.Property<int>("PossessionId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PossessionId"), 1L, 1);
+
+                    b.Property<string>("KeyText")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("RestaurantEmail")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("PossessionId");
+
+                    b.HasIndex("KeyText");
+
+                    b.HasIndex("RestaurantEmail");
+
+                    b.ToTable("Possessions");
+                });
 
             modelBuilder.Entity("TasteFinder.Models.Photo", b =>
                 {
@@ -71,6 +127,9 @@ namespace TasteFinder.Migrations
                     b.Property<bool>("Food")
                         .HasColumnType("bit");
 
+                    b.Property<bool>("Healthy")
+                        .HasColumnType("bit");
+
                     b.Property<bool>("KidsArea")
                         .HasColumnType("bit");
 
@@ -99,6 +158,9 @@ namespace TasteFinder.Migrations
                         .HasColumnType("float");
 
                     b.Property<bool>("Seats")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("Vegan")
                         .HasColumnType("bit");
 
                     b.HasKey("Email");
@@ -167,12 +229,41 @@ namespace TasteFinder.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("TasteFinder.Models.Contribution", b =>
+                {
+                    b.HasOne("TasteFinder.Models.User", "Author")
+                        .WithMany()
+                        .HasForeignKey("AuthorEmail");
+
+                    b.HasOne("TasteFinder.Models.Review", "Review")
+                        .WithMany()
+                        .HasForeignKey("ReviewId");
+
+                    b.Navigation("Author");
+
+                    b.Navigation("Review");
+                });
+
+            modelBuilder.Entity("TasteFinder.Models.KeywordPossession", b =>
+                {
+                    b.HasOne("TasteFinder.Models.Keyword", "Key")
+                        .WithMany("Restaurants")
+                        .HasForeignKey("KeyText");
+
+                    b.HasOne("TasteFinder.Models.Restaurant", "Restaurant")
+                        .WithMany("Keywords")
+                        .HasForeignKey("RestaurantEmail");
+
+                    b.Navigation("Key");
+
+                    b.Navigation("Restaurant");
+                });
+
             modelBuilder.Entity("TasteFinder.Models.Photo", b =>
                 {
                     b.HasOne("TasteFinder.Models.Restaurant", "Owner")
                         .WithMany("Photos")
-                        .HasForeignKey("OwnerEmail")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("OwnerEmail");
 
                     b.Navigation("Owner");
                 });
@@ -181,14 +272,20 @@ namespace TasteFinder.Migrations
                 {
                     b.HasOne("TasteFinder.Models.User", "Author")
                         .WithMany("Reviews")
-                        .HasForeignKey("AuthorEmail")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("AuthorEmail");
 
                     b.Navigation("Author");
                 });
 
+            modelBuilder.Entity("TasteFinder.Models.Keyword", b =>
+                {
+                    b.Navigation("Restaurants");
+                });
+
             modelBuilder.Entity("TasteFinder.Models.Restaurant", b =>
                 {
+                    b.Navigation("Keywords");
+
                     b.Navigation("Photos");
                 });
 
