@@ -29,6 +29,6 @@ namespace TasteFinder.Models
         public bool Vegan { get; set; }
         public bool Healthy { get; set; }
         public virtual ICollection<Photo> Photos { get; set; }
-        public virtual ICollection<KeywordPossession> Keywords { get; set; }
+        public virtual ICollection<Keyword> Keywords { get; set; }
     }
 }

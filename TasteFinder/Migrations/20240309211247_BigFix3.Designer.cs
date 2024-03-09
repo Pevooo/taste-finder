@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TasteFinder.Models;
 
@@ -11,9 +12,10 @@ using TasteFinder.Models;
 namespace TasteFinder.Migrations
 {
     [DbContext(typeof(TasteFinderContext))]
-    partial class TasteFinderContextModelSnapshot : ModelSnapshot
+    [Migration("20240309211247_BigFix3")]
+    partial class BigFix3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -30,17 +32,22 @@ namespace TasteFinder.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ContributionId"), 1L, 1);
 
-                    b.Property<string>("AuthorEmail")
-                        .HasColumnType("nvarchar(450)");
-
                     b.Property<int?>("ReviewId")
                         .HasColumnType("int");
 
+                    b.Property<string>("UserEmail")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("UserEmail1")
+                        .HasColumnType("nvarchar(450)");
+
                     b.HasKey("ContributionId");
 
-                    b.HasIndex("AuthorEmail");
-
                     b.HasIndex("ReviewId");
+
+                    b.HasIndex("UserEmail");
+
+                    b.HasIndex("UserEmail1");
 
                     b.ToTable("Contributions");
                 });
@@ -216,14 +223,18 @@ namespace TasteFinder.Migrations
 
             modelBuilder.Entity("TasteFinder.Models.Contribution", b =>
                 {
-                    b.HasOne("TasteFinder.Models.User", "Author")
-                        .WithMany("Contributions")
-                        .HasForeignKey("AuthorEmail");
-
                     b.HasOne("TasteFinder.Models.Review", "Review")
                         .WithMany("Contributions")
                         .HasForeignKey("ReviewId")
                         .OnDelete(DeleteBehavior.Cascade);
+
+                    b.HasOne("TasteFinder.Models.User", "Author")
+                        .WithMany()
+                        .HasForeignKey("UserEmail");
+
+                    b.HasOne("TasteFinder.Models.User", null)
+                        .WithMany("Contributions")
+                        .HasForeignKey("UserEmail1");
 
                     b.Navigation("Author");
 

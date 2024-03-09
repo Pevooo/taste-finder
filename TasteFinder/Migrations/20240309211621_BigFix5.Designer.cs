@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TasteFinder.Models;
 
@@ -11,9 +12,10 @@ using TasteFinder.Models;
 namespace TasteFinder.Migrations
 {
     [DbContext(typeof(TasteFinderContext))]
-    partial class TasteFinderContextModelSnapshot : ModelSnapshot
+    [Migration("20240309211621_BigFix5")]
+    partial class BigFix5
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -10,9 +10,9 @@ namespace TasteFinder.Models
         public int Stars { get; set; }
         [Column(TypeName = "datetime")]
         public DateTime Date { get; set; }
-        public int Contribution { get; set; }
         public string Text { get; set; }
         public virtual User Author { get; set; }
         public virtual Restaurant Restaurant { get; set; }
+        public virtual ICollection<Contribution> Contributions { get; set; }
     }
 }
