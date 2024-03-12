@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TasteFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afbd04ad091e0ff8a806ec954b8ee253bab8732b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75ef0db909b672ec54c590203107ec399a64d344")]
 [assembly: System.Reflection.AssemblyProductAttribute("TasteFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TasteFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

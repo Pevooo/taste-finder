@@ -11,12 +11,26 @@ namespace TasteFinder.Controllers
         {
             this.db = db;
         }
+
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
+        [HttpGet]
+        public IActionResult Results(string Search, string OpenAir, string KidsArea, string Seats, string Food, string Drinks, string Desserts, string Delivery, string Buffet, string Vegan, string Healthy, string NearMe)
+        {
+            // For checkboxes "On" means true and "null" means false
+            List<string> query = new() { OpenAir, KidsArea, Seats, Food, Drinks, Desserts, Delivery, Buffet, Vegan, Healthy};
+            List<bool> filters = query.Select(p => true ? p is not null : false).ToList();
 
+
+            List<Restaurant> SearchResults = GetResults(Search, filters);
+            return View(SearchResults);
+        }
+
+        
 
 
         [NonAction]
@@ -75,7 +89,7 @@ namespace TasteFinder.Controllers
 
             // Step 2: Search (Text search is the last because of it's high complexity)
             restaurants = results;
-            List<KeyValuePair<int, Restaurant>> scores = new();
+            List<KeyValuePair<double, Restaurant>> scores = new();
             searchKey = searchKey.ToLower();
             int searchLength = searchKey.Length;
             foreach (var restaurant in restaurants)
@@ -92,7 +106,7 @@ namespace TasteFinder.Controllers
 
                 for (int i = 0; i <= searchLength; i++)
                 {
-                    cache[0, i] = i;
+                    cache[0,i] = i;
                 }
 
                 // Evaluating Values
@@ -100,23 +114,27 @@ namespace TasteFinder.Controllers
                 {
                     for (int j = 1; j <= searchLength; j++)
                     {
-                        int add = (restaurantName[i - 1] == searchKey[j - 1]) ? 1 : 0;
+                        int add = (restaurantName[i - 1] == searchKey[j - 1]) ? 0 : 1;
                         cache[i, j] = Math.Min(1 + cache[i - 1, j], Math.Min(1 + cache[i, j - 1], add + cache[i - 1, j - 1]));
                     }
                 }
 
-                scores.Add(new(cache[restaurantLength, searchLength], restaurant));
+                scores.Add(new(cache[restaurantLength, searchLength] / (double)restaurantLength, restaurant));
 
             }
 
             scores.Sort(Compare);
-            results = scores.Select(p => p.Value).Reverse().ToList();
+            results = scores.Select(p => p.Value).ToList();
             return results;
         }
 
         [NonAction]
-        static int Compare(KeyValuePair<int, Restaurant> a, KeyValuePair<int, Restaurant> b)
+        static int Compare(KeyValuePair<double, Restaurant> a, KeyValuePair<double, Restaurant> b)
         {
+            if (a.Key == b.Key)
+            {
+                return a.Value.Name.CompareTo(b.Value.Name);
+            }
             return a.Key.CompareTo(b.Key);
         }
 

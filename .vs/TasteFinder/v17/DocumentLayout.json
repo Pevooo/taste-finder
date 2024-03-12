@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|d:\\important documents\\tastefinder\\tastefinder\\tastefinder\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|d:\\important documents\\tastefinder\\tastefinder\\tastefinder\\views\\search\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\views\\search\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|d:\\important documents\\tastefinder\\tastefinder\\tastefinder\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "TasteFinder\\Views\\Search\\Index.cshtml",
+              "ToolTip": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "TasteFinder\\Views\\Search\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T17:40:02.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Views\\Search\\Results.cshtml",
+              "RelativeDocumentMoniker": "TasteFinder\\Views\\Search\\Results.cshtml",
+              "ToolTip": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Views\\Search\\Results.cshtml",
+              "RelativeToolTip": "TasteFinder\\Views\\Search\\Results.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T17:36:21.362Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +62,10 @@
               "RelativeDocumentMoniker": "TasteFinder\\Controllers\\SearchController.cs",
               "ToolTip": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Controllers\\SearchController.cs",
               "RelativeToolTip": "TasteFinder\\Controllers\\SearchController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAIAAAAATAAAA",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAGcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T19:34:44.936Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
