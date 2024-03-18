@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.Diagnostics.Tracing;
 using TasteFinder.Models;
 
@@ -125,7 +126,63 @@ namespace TasteFinder.Controllers
 
             scores.Sort(Compare);
             results = scores.Select(p => p.Value).ToList();
-            return results;
+
+            List<KeyValuePair<double, Restaurant>> points_of_keys = new();
+            List<Keyword> keywords = db.Possessions.ToList();
+            List<Restaurant> result_keys = new();
+            int number_of_different_letters = 0;
+            foreach (var  key in keywords) {
+                number_of_different_letters = 0;
+                for (int i = 0;i<Math.Min(searchLength,key.Text.Length);i++)
+                {
+                    if (searchKey[i] != key.Text[i])
+                    {
+                        number_of_different_letters++;
+                    }
+                }
+                points_of_keys.Add(new(number_of_different_letters, key.Restaurant));
+            }
+            points_of_keys.Sort(Compare);
+            result_keys = points_of_keys.Select(p => p.Value).ToList();
+
+            List<KeyValuePair<double, Restaurant>> points_of_res = new();
+            int num_of_different_letters = 0;
+            foreach (var res in results)
+            {
+                num_of_different_letters = 0;
+                for (int i = 0; i <Math.Min( searchLength,res.Name.Length); i++)
+                {
+                    if (searchKey[i] != res.Name[i])
+                    {
+                        number_of_different_letters++;
+                    }
+                }
+                points_of_res.Add(new(num_of_different_letters, res));
+            }
+
+            for (int i = 0; i < Math.Min(result_keys.Count, results.Count); i++)
+            {
+                if (results[i].Email == result_keys[i].Email)
+                {
+                    result_keys.Remove(result_keys[i]);
+                }
+            }
+                List<Restaurant> result_of_all = new();
+            for (int i = 0; i < Math.Min(points_of_keys.Count, points_of_res.Count); i++)
+            {
+               
+                if (points_of_keys[i].Key < points_of_res[i].Key)
+                {
+                    result_of_all.Add(points_of_keys[i].Value);
+                }
+                else
+                {
+                    result_of_all.Add(points_of_res[i].Value);
+                }
+                
+            }
+               return result_of_all;
+               //return results;
         }
 
         [NonAction]

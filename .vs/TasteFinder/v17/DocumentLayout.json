@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Important Documents\\TasteFinder\\TasteFinder\\",
+  "WorkspaceRootPath": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|d:\\important documents\\tastefinder\\tastefinder\\tastefinder\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|c:\\users\\marley amged\\desktop\\tastefinder\\tastefinder\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|d:\\important documents\\tastefinder\\tastefinder\\tastefinder\\views\\search\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\views\\search\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|c:\\users\\marley amged\\desktop\\tastefinder\\tastefinder\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|d:\\important documents\\tastefinder\\tastefinder\\tastefinder\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|c:\\users\\marley amged\\desktop\\tastefinder\\tastefinder\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|c:\\users\\marley amged\\desktop\\tastefinder\\tastefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|c:\\users\\marley amged\\desktop\\tastefinder\\tastefinder\\models\\tastefindercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\models\\tastefindercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|c:\\users\\marley amged\\desktop\\tastefinder\\tastefinder\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\views\\search\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|c:\\users\\marley amged\\desktop\\tastefinder\\tastefinder\\models\\keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\models\\keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|c:\\users\\marley amged\\desktop\\tastefinder\\tastefinder\\views\\search\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7241E06-E1A5-41AC-800E-731AA57F2259}|TasteFinder\\TasteFinder.csproj|solutionrelative:tastefinder\\views\\search\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +42,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Views\\Search\\Index.cshtml",
-              "RelativeDocumentMoniker": "TasteFinder\\Views\\Search\\Index.cshtml",
-              "ToolTip": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Views\\Search\\Index.cshtml",
-              "RelativeToolTip": "TasteFinder\\Views\\Search\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T17:40:02.835Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Program.cs",
+              "RelativeDocumentMoniker": "TasteFinder\\Program.cs",
+              "ToolTip": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Program.cs",
+              "RelativeToolTip": "TasteFinder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T00:03:54.44Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "TasteFinder\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Models\\Restaurant.cs",
+              "RelativeToolTip": "TasteFinder\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:49:13.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TasteFinder\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Models\\User.cs",
+              "RelativeToolTip": "TasteFinder\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:38:06.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Keyword.cs",
+              "DocumentMoniker": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Models\\Keyword.cs",
+              "RelativeDocumentMoniker": "TasteFinder\\Models\\Keyword.cs",
+              "ToolTip": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Models\\Keyword.cs",
+              "RelativeToolTip": "TasteFinder\\Models\\Keyword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:00:01.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasteFinderContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Models\\TasteFinderContext.cs",
+              "RelativeDocumentMoniker": "TasteFinder\\Models\\TasteFinderContext.cs",
+              "ToolTip": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Models\\TasteFinderContext.cs",
+              "RelativeToolTip": "TasteFinder\\Models\\TasteFinderContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:57:31.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Views\\Search\\Index.cshtml",
+              "RelativeDocumentMoniker": "TasteFinder\\Views\\Search\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Views\\Search\\Index.cshtml",
+              "RelativeToolTip": "TasteFinder\\Views\\Search\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T17:40:02.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Results.cshtml",
-              "DocumentMoniker": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Views\\Search\\Results.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Views\\Search\\Results.cshtml",
               "RelativeDocumentMoniker": "TasteFinder\\Views\\Search\\Results.cshtml",
-              "ToolTip": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Views\\Search\\Results.cshtml",
+              "ToolTip": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Views\\Search\\Results.cshtml",
               "RelativeToolTip": "TasteFinder\\Views\\Search\\Results.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-12T17:36:21.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T17:36:21.362Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SearchController.cs",
-              "DocumentMoniker": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Controllers\\SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "TasteFinder\\Controllers\\SearchController.cs",
-              "ToolTip": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\Controllers\\SearchController.cs",
               "RelativeToolTip": "TasteFinder\\Controllers\\SearchController.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAAAGcAAAAjAAAA",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAkwLgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T19:34:44.936Z",
               "EditorCaption": ""

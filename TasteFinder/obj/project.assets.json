@@ -2013,19 +2013,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pevod\\.nuget\\packages\\": {}
+    "C:\\Users\\Marley Amged\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\TasteFinder.csproj",
+      "projectUniqueName": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\TasteFinder.csproj",
       "projectName": "TasteFinder",
-      "projectPath": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\TasteFinder.csproj",
-      "packagesPath": "C:\\Users\\pevod\\.nuget\\packages\\",
-      "outputPath": "D:\\Important Documents\\TasteFinder\\TasteFinder\\TasteFinder\\obj\\",
+      "projectPath": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\TasteFinder.csproj",
+      "packagesPath": "C:\\Users\\Marley Amged\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marley Amged\\Desktop\\TasteFinder\\TasteFinder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pevod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marley Amged\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
